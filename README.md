@@ -1,2 +1,3 @@
-# OpenSea-CLone-cli-starter
-Open Mint Is a Open-Sea Clone which is an NFT MARKETPLACE
+# Welcome to the OpenSea Clone
+
+#Using NextJS the front end and SanityIO and ThirdWeb
